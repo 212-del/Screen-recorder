@@ -96,10 +96,4 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 Happy Recording 🎬
 
-## If you want next:
-- ✅ A **fixed & optimized version of the script**
-- ✅ A **release-ready README with screenshots**
-- ✅ GitHub Actions for linting Bash
-- ✅ CLI flags (`--start`, `--stop`, `--status`)
 
-Just say the word 🚀
